@@ -23,7 +23,7 @@ Welcome to this self-directed course on R and RStudio. Very little prior experie
 
 ## Setup
 
-Start [here](https://youtu.be/lWElqN7eTK4) for a short video walking you through the software you need for the course and giving you an overview of the material. You’ll want to install the following prior to starting this course:
+Start [here](https://youtu.be/_A1GoJn_KD0) for a short video walking you through the software you need for the course and giving you an overview of the material. You’ll want to install the following prior to starting this course:
 
 - [R and RStudio](https://posit.co/download/rstudio-desktop/)
 
